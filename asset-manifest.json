@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/saurabh1996-rex/3-column-preview-card-component/static/css/main.5d159a7d.chunk.css",
+    "main.js": "/saurabh1996-rex/3-column-preview-card-component/static/js/main.8a100c3f.chunk.js",
+    "main.js.map": "/saurabh1996-rex/3-column-preview-card-component/static/js/main.8a100c3f.chunk.js.map",
+    "runtime-main.js": "/saurabh1996-rex/3-column-preview-card-component/static/js/runtime-main.b03c09cb.js",
+    "runtime-main.js.map": "/saurabh1996-rex/3-column-preview-card-component/static/js/runtime-main.b03c09cb.js.map",
+    "static/js/2.bb95a83e.chunk.js": "/saurabh1996-rex/3-column-preview-card-component/static/js/2.bb95a83e.chunk.js",
+    "static/js/2.bb95a83e.chunk.js.map": "/saurabh1996-rex/3-column-preview-card-component/static/js/2.bb95a83e.chunk.js.map",
+    "index.html": "/saurabh1996-rex/3-column-preview-card-component/index.html",
+    "static/css/main.5d159a7d.chunk.css.map": "/saurabh1996-rex/3-column-preview-card-component/static/css/main.5d159a7d.chunk.css.map",
+    "static/js/2.bb95a83e.chunk.js.LICENSE.txt": "/saurabh1996-rex/3-column-preview-card-component/static/js/2.bb95a83e.chunk.js.LICENSE.txt",
+    "static/media/icon-luxury.7d6e1aef.svg": "/saurabh1996-rex/3-column-preview-card-component/static/media/icon-luxury.7d6e1aef.svg",
+    "static/media/icon-sedans.e7945028.svg": "/saurabh1996-rex/3-column-preview-card-component/static/media/icon-sedans.e7945028.svg",
+    "static/media/icon-suvs.058b664c.svg": "/saurabh1996-rex/3-column-preview-card-component/static/media/icon-suvs.058b664c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b03c09cb.js",
+    "static/js/2.bb95a83e.chunk.js",
+    "static/css/main.5d159a7d.chunk.css",
+    "static/js/main.8a100c3f.chunk.js"
+  ]
+}
