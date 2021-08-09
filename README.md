@@ -33,11 +33,11 @@ Users should be able to:
 
 #### Desktop
 
-![Screen desktop](./static/media/screen-desktop.png)
+![Screen desktop](./images/screen-desktop.png)
 
 #### Mobile
 
-![Screen Mobile](./static/media/screen-mobile.png)
+![Screen Mobile](./images/screen-mobile.png)
 
 ### Links
 
